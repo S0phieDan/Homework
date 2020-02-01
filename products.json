@@ -1,0 +1,228 @@
+
+[
+    {
+        "name": "BRÅTHULT",
+        "id": 1,
+        "type": "Couches",
+        "description": "Sectional, 3-seat corner, Vissle red/orange",
+        "price": "349.55$",
+        "image": "./couches_imgs/couch5.jpg"
+    },
+
+    {
+        "name": "FRIHETEN",
+        "id": 2,
+        "type": "Couches",
+        "description": "Sleeper sectional,3 seat w/storage, Skiftebo blue",
+        "price": "500$",
+        "image": "./couches_imgs/couch4.jpg"
+    },
+
+    {
+        "name": "Childhood",
+        "id": 3,
+        "type": "Couches",
+        "description": "For kids age 5-10",
+        "price": "355.99$",
+        "image": "./couches_imgs/couch1.jpg"
+    },
+
+    {
+        "name": "EKTORP",
+        "id": 4,
+        "type": "Couches",
+        "description": "Sofa, Lofallet beige",
+        "price": "2599$",
+        "image": "./couches_imgs/couch7.jpg"
+    },
+
+    {
+        "name": "SÖDERHAMN",
+        "id": 5,
+        "type": "Couches",
+        "description": "Corner section, Finnsta turquoise",
+        "price": "1000$",
+        "image": "./couches_imgs/couch8.jpg"
+    },
+
+    {
+        "name": "VIMLE",
+        "id": 6,
+        "type": "Couches",
+        "description": "Loveseat, Dalstorp multicolor",
+        "price": "529$",
+        "image": "./couches_imgs/couch6.jpg"
+    },
+
+    {
+        "name": "LINDOME",
+        "id": 7,
+        "type": "Couches",
+        "description": "Sofa, Djuparp dark green-blue",
+        "price": "355$",
+        "image": "./couches_imgs/couch9.jpg"
+    },
+
+    {
+        "name": "STOCKHOLM",
+        "id": 8,
+        "type": "Couches",
+        "description": "Sofa, Seglora natural",
+        "price": "2599$",
+        "image": "./couches_imgs/couch10.jpg"
+    },
+
+    {
+        "name": "VIMLE",
+        "id": 9,
+        "type": "Couches",
+        "description": "Sofa, with open end, Gunnared beige",
+        "price": "800$",
+        "image": "./couches_imgs/couch11.jpg"
+    },
+
+    {
+        "name": "STRANDMON",
+        "id": 10,
+        "type": "Chairs",
+        "description": "Wing chair, Nordvalla dark gray",
+        "price": "249$",
+        "image": "./chairs_imgs/chair1.jpg"
+    },
+
+    {
+        "name": "BUSKBO",
+        "id": 11,
+        "type": "Chairs",
+        "description": "Armchair, rattan, Djupvik white",
+        "price": "160$",
+        "image": "./chairs_imgs/chair4.jpg"
+    },
+
+    {
+        "name": "EKOLSUND",
+        "id": 12,
+        "type": "Chairs",
+        "description": "Recliner, Gunnared light brown-pink",
+        "price": "249$",
+        "image": "./chairs_imgs/chair2.jpg"
+    },
+
+    {
+        "name": "EKERÖ",
+        "id": 13,
+        "type": "Chairs",
+        "description": "Armchair, Skiftebo yellow",
+        "price": "249$",
+        "image": "./chairs_imgs/chair3.jpg"
+    },
+
+    {
+        "name": "EKTORP",
+        "id": 14,
+        "type": "Chairs",
+        "description": "Armchair, Lingbo multicolor",
+        "price": "399$",
+        "image": "./chairs_imgs/chair5.jpg"
+    },
+
+    {
+        "name": "STRANDMON",
+        "id": 15,
+        "type": "Chairs",
+        "description": "Wing chair, Gillhov multicolor",
+        "price": "349$",
+        "image": "./chairs_imgs/chair6.jpg"
+    },
+
+    {
+        "name": "KULLABERG",
+        "id": 16,
+        "type": "Tables",
+        "description": "Desk, pine, black, 43 1/4x27 1/2",
+        "price": "149$",
+        "image": "./tables_imgs/table1.jpg"
+    },
+
+    {
+        "name": "NORDEN",
+        "id": 17,
+        "type": "Tables",
+        "description": "Gateleg table, birch, 10 1/4/35/59 7/8x31 1/2",
+        "price": "199$",
+        "image": "./tables_imgs/table2.jpg"
+    },
+
+    {
+        "name": "PÅHL",
+        "id": 18,
+        "type": "Tables",
+        "description": "Desk with add-on unit, white, 50 3/8x22 7/8",
+        "price": "79.99$",
+        "image": "./tables_imgs/table3.jpg"
+    },
+
+    {
+        "name": "LINNMON / ADILS",
+        "id": 19,
+        "type": "Tables",
+        "description": "Table, black-brown, blue, 39 3/8x23 5/8",
+        "price": "29.99$",
+        "image": "./tables_imgs/table4.jpg"
+    },
+
+    {
+        "name": "JOKKMOKK",
+        "id": 20,
+        "type": "Tables",
+        "description": "Table and 4 chairs, antique stain",
+        "price": "129.99$",
+        "image": "./tables_imgs/table5.jpg"
+    },
+
+    {
+        "name": "GLASHOLM / ALEX",
+        "id": 21,
+        "type": "Tables",
+        "description": "Table, glass, honeycomb pattern white",
+        "price": "237$",
+        "image": "./tables_imgs/table6.jpg"
+    },
+
+    {
+        "name": "LILLEVORDE",
+        "id": 22,
+        "type": "Rugs",
+        "description": "Rug, low pile, gray, multicolor",
+        "price": "49.99$",
+        "image": "./rugs_imgs/rug1.jpg"
+    },
+
+    {
+        "name": "GÖRLÖSE",
+        "id": 23,
+        "type": "Rugs",
+        "description": "Rug, low pile, black/white",
+        "price": "24.99$",
+        "image": "./rugs_imgs/rug2.jpg"
+    },
+
+    {
+        "name": "ROSKILDE",
+        "id": 24,
+        "type": "Rugs",
+        "description": "Rug, flatwoven, indoor/outdoor green-blue",
+        "price": "79$",
+        "image": "./rugs_imgs/rug3.jpg"
+    },
+
+    {
+        "name": "BRÖNDEN",
+        "id": 25,
+        "type": "Rugs",
+        "description": "Rug, low pile, handmade multicolor",
+        "price": "269$",
+        "image": "./rugs_imgs/rug4.jpg"
+    }
+
+]
